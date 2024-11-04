@@ -23,7 +23,7 @@ def speed_time(time_s, time_e, userinput):
 
 #below are few paragraphs of strings for typing test within a list, of course you can easily  cheat with copy paste, but come on dont be like that!
 
-test = ["A pragraph is a self-contained unit of discourse in writing, dealing with a particular point or idea.",
+test = ["A paragraph is a self-contained unit of discourse in writing, dealing with a particular point or idea.",
  "i will never give up, even if i had to take as many breaks as possible to reach my goal!",
  "I should never cheat by copy-pasting stuff in a typing test like this one!. because if i did, i would be the world's biggest stupid person." ]
 
